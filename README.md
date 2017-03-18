@@ -9,7 +9,7 @@ Watson Developer Cloud samples](https://github.com/watson-developer-cloud).
 
 ## Setup
 
-This sample was developed on Python 2.6.6 with the `python-twitter` and `requests` libraries, installed via pip.
+This sample was developed on Python 2.7.2 with the `python-tweepy` and `requests` libraries, installed via pip.
 
 ## Configuring your Twitter and Personality Insights Credentials
 
